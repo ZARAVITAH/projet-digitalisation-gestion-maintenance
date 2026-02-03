@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.ipynb_checkpoints/
+data/*.xlsx
+data/*.txt
+data/*.parquet
+data/*.db
+data/migrate_to_supabase.py
+.streamlit/*
+data/update_importance.py
